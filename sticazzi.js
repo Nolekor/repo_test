@@ -7,3 +7,4 @@ const personalData = [{ name: 'Nico'  },
                      ];
 
 console.log(personalData);
+
