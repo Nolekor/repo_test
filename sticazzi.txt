@@ -1,2 +1,5 @@
 LE BANANE CON IN MEZZO MANZOTIN
 banane e lamponi YOU ARE APPROACHING ME???
+
+
+script.js  => cambiata la funzione sticazzi loggati
